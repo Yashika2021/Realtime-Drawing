@@ -8,7 +8,6 @@
 .note{
     font-size: 15px;
     color: black;
-    white-space: pre-line;
 }
 
 .copy_right_footer{
@@ -23,6 +22,12 @@
 
 canvas{
     border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+video{
+    border: 5px solid black;
     border-radius: 20px;
     box-shadow: 5px 5px 5px grey;
 }
